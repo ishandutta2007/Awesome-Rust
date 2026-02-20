@@ -112,3 +112,9 @@ To the extent possible under law, the author(s) have dedicated all copyright and
 ---
 
 Made with ❤️ for the Rust community.
+
+
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Rust&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Rust&type=date&legend=top-left)
