@@ -78,6 +78,7 @@ This list focuses on **high-quality, actively maintained, real-world** items tha
 
 ### Other Cool Apps
 - [Alacritty](https://github.com/alacritty/alacritty) – GPU-accelerated terminal emulator
+- [Glim](https://github.com/NeoPanic/Glim) – macOS file viewer and basic text editor built with Rust and GPUI Kit, with Markdown, diagram and Git diff previews
 - [Helix](https://github.com/helix-editor/helix) – modal text editor (like Kakoune + Neovim)
 - [Lapce](https://github.com/lapce/lapce) – lightning-fast code editor written in Rust
 
